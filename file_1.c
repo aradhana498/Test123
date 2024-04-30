@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #include<stdio.h>
 int main() {
 	int num1,num2,sum1;
@@ -11,3 +12,8 @@ int main() {
 
 }
 
+=======
+int func_add(int a, int b)
+
+	return a+b;
+>>>>>>> branch1
